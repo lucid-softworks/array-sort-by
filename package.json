@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/array-sort-by",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stably sort an array by a derived primitive key.",
   "keywords": [
     "array",
